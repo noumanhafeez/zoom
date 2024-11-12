@@ -14,8 +14,8 @@ import { StreamVideo, StreamVideoClient } from '@stream-io/video-react-native-sd
 import MakeCalls from './makecalls';
 
 // Stream API settings
-const apiKey = 'cypv86k7r7tg';
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiSm9obl9TbWl0aCIsInJvbGUiOiJ1c2VyIiwiZXhwIjoxNzMxMzY0MTEzLCJpYXQiOjE3MzEzNjA1MTN9.ID2qKrrwGfRd5K_Z0QUl7kDupC4wiVcT7CD3q3_PGP8';
+const apiKey = 'Your API_key';
+const token = 'Your_Token';
 const userId = 'John_Smith';
 const user = {
   id: userId,
